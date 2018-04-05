@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/graphics/background">
+        <file>gbob-rozpiska-klawiszy-web.bez kalwiszy.png</file>
+        <file>rozp-mysz.png</file>
+    </qresource>
+</RCC>
